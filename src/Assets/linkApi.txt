@@ -1,0 +1,9 @@
+https://axqvoqvbfjpaamphztgd.functions.supabase.co/regioni
+
+https://axqvoqvbfjpaamphztgd.functions.supabase.co/province/
+
+https://axqvoqvbfjpaamphztgd.functions.supabase.co/comuni/provincia/Roma
+
+https://axqvoqvbfjpaamphztgd.functions.supabase.co/comuni?codiceCatastale=A089
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
